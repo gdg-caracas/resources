@@ -8,7 +8,7 @@ La autoría detallada, las afiliaciones y las condiciones de uso se documentan t
 
 | Recurso | Tipo | Evento y fecha | Autoría | Licencia |
 |---|---|---|---|---|
-| _Aún no se han incorporado recursos._ | — | — | — | — |
+| [Evento de lanzamiento de GDG Caracas](presentations/2026/evento-lanzamiento-gdg-caracas/) | Presentación | Evento de lanzamiento de GDG Caracas · 2026-02-25 | Yaskelly Yedra | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) |
 
 ## Principios de atribución
 
