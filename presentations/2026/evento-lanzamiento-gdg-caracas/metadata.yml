@@ -1,0 +1,49 @@
+title: "Evento de lanzamiento de GDG Caracas"
+slug: "evento-lanzamiento-gdg-caracas"
+type: "presentation"
+language: "es"
+
+event:
+  name: "Evento de lanzamiento de GDG Caracas"
+  date: "2026-02-25"
+  url: "https://gdg.community.dev/events/details/google-gdg-caracas-presents-evento-de-lanzamiento-de-gdg-caracas/"
+
+summary: "Presentación del evento oficial de lanzamiento de Google Developer Group Caracas, su propósito, comunidad e iniciativas."
+
+topics:
+  - "GDG Caracas"
+  - "comunidades tecnológicas"
+  - "Google Developer Groups"
+  - "lanzamiento"
+
+authors:
+  - name: "Yaskelly Yedra"
+    github: "yaskelly"
+    linkedin: ""
+    orcid: ""
+    affiliation: "GDG Caracas"
+
+files:
+  - name: "lanzamiento-gdg-caracas.pdf"
+    format: "pdf"
+
+links:
+  video: "https://youtu.be/9126i-RZmPY"
+  repository: "https://github.com/gdg-caracas/resources"
+  external_resource: ""
+
+permissions:
+  publication_consent: true
+  license: "CC BY-NC-ND 4.0"
+  commercial_use: false
+  modifications_allowed: false
+
+generative_ai:
+  used: true
+  tools:
+    - "ChatGPT"
+  description: "Apoyo en la redacción de la nota de autorización y la explicación de la licencia; contenido revisado y aprobado por la autora."
+
+catalog:
+  yaskcode_slides: false
+  catalog_url: ""
