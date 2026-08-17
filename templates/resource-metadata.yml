@@ -1,0 +1,47 @@
+# Copia este archivo como metadata.yml dentro de la carpeta del recurso.
+
+title: ""
+slug: ""
+type: "presentation" # presentation | codelab | demo | other
+language: "es"
+
+event:
+  name: ""
+  date: "YYYY-MM-DD"
+  url: ""
+
+summary: ""
+
+topics:
+  - ""
+
+authors:
+  - name: ""
+    github: ""
+    linkedin: ""
+    orcid: ""
+    affiliation: ""
+
+files:
+  - name: ""
+    format: "pdf"
+
+links:
+  video: ""
+  repository: ""
+  external_resource: ""
+
+permissions:
+  publication_consent: false
+  license: "Pendiente de definir por el autor"
+  commercial_use: false
+  modifications_allowed: false
+
+generative_ai:
+  used: false
+  tools: []
+  description: ""
+
+catalog:
+  yaskcode_slides: false
+  catalog_url: ""
